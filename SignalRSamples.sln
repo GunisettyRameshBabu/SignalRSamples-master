@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsClient", "WinFormsC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JavaScriptClient", "JavaScriptClient\JavaScriptClient.csproj", "{2112EA45-525D-453C-961B-2BA91F9EFC3F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRServerConsole", "SignalRServerConsole\SignalRServerConsole.csproj", "{8500F5B0-6C79-42CF-9F8D-98709558D5F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{2112EA45-525D-453C-961B-2BA91F9EFC3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2112EA45-525D-453C-961B-2BA91F9EFC3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2112EA45-525D-453C-961B-2BA91F9EFC3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8500F5B0-6C79-42CF-9F8D-98709558D5F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8500F5B0-6C79-42CF-9F8D-98709558D5F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8500F5B0-6C79-42CF-9F8D-98709558D5F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8500F5B0-6C79-42CF-9F8D-98709558D5F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
